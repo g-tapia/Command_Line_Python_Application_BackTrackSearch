@@ -7,7 +7,7 @@ This program uses the backtracking algorithmn, along with the pandas library, to
 <img width="729" alt="image" src="https://user-images.githubusercontent.com/78235399/185516803-4390dfd0-328c-4c38-8c1c-eb9f5ea42e73.png">
 
 
-Three excel sheets have been provided that help us determine the path cost from state to state, the zone of each state, and the states that we can visit from one particular state
+Three csv files have been provided that help me determine the path cost from state to state, the zone of each state, and the states that we can visit from one particular state to another
 
 Here is another sample output of a path that was not found: (AL 30)
 
