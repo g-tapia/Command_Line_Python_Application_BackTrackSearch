@@ -14,7 +14,5 @@ Here is another sample output of a path that was not found: (AL 30)
 <img width="699" alt="image" src="https://user-images.githubusercontent.com/78235399/185517486-74b2bba4-f3ce-4c2f-b6ce-cf9b81f2e854.png">
 
 
-You have to be pretty crazy to want to visit 30 parks!
-
 
 Fell free to run this py file, and if you want a more detailed description, then you can refer to the documents above.
